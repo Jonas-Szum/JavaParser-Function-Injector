@@ -1,4 +1,0 @@
-Testsuite: edu.uic.cs474.hw1.Test20_OneArrayWithOneEmptyString
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.04 sec
-
-Testcase: test took 0.002 sec
